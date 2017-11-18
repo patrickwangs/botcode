@@ -1,0 +1,5 @@
+module.exports = {
+	CHANNEL_ID:'1545039112',
+	CHANNEL_SERECT:'a6cf4351fd215666037525277bb2a40e',
+	MID: ''
+}
